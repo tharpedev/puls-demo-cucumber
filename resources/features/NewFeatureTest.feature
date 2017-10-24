@@ -5,4 +5,4 @@ Feature:
   Scenario:
     Given Something is openened
     When I click something else
-    Then I should see something
+    Then I should see something too
