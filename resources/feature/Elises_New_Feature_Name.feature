@@ -10,4 +10,4 @@ Feature: Elises New Feature Name For Demoing
   Scenario:
     Given Elise is doing more scenarios
     When Elise clicks Save
-    Then the new scenario shows up in the feature file
+    Then the new scenario shows up in the feature file HELLO WORLD
