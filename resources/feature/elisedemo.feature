@@ -1,6 +1,5 @@
 
-Feature:
-  Elise is demoing something
+Feature: Elise is demoing something
 
   Scenario:
     Given Elise does a demo
