@@ -16,3 +16,7 @@ Feature: Kids spending money
     Given I update this scenario
     When I make a change
     Then the updates should save and the tests should fail
+    
+    
+    
+    
