@@ -3,7 +3,7 @@ Feature: Parents creating accounts
   Parents will create accounts for themselves so they can later associate kids to them
 
   Scenario:
-    Given that I have never logged in
+    Given that I have never logged in HELLO WORLD
     When I open the App
     Then I should see the an option to sign up as a parent
     
