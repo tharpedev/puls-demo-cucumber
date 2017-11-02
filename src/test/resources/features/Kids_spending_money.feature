@@ -4,9 +4,9 @@ Feature: Kids spending money
 
   Scenario:
     Given I am a kid who has an account
-    When I log in
+    When kid logs in
     Then I should be redirected to the ledgar screen
     
     Given I am a logged in kid with an account balance greater than 0
-    When I log in
+    When kid logs in
     Then I should have a Spend Money Button
