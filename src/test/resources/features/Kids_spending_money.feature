@@ -15,8 +15,4 @@ Feature: Kids spending money
   Scenario: This is a new scenario
     Given I update this scenario
     When I make a change
-    Then the updates should save and the tests should fail 2
-    
-    
-    
-    
+    Then the updates should save and the tests should fail
