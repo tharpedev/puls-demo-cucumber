@@ -328,6 +328,3 @@ Feature: Needs Analysis - Education
       | Institution | Start Amount | Year | Text Input       | Contribution | 
        | "Herzlia"   | 10000        | 2019 | "Tasneem"        | 500          |
       | "UCT"       | 40000        | 2021 | "John Doe Klein" | 1000         |
-      
-      
-
