@@ -13,6 +13,6 @@ Feature: Kids spending money
     Then I should have a Spend Money Button
 
   Scenario: This is a new scenario
-    Given I update this scenarioASDF
+    Given I update this scenario TEST
     When I make a change
     Then the updates should save and the tests should fail 
