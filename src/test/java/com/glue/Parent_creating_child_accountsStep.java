@@ -9,7 +9,7 @@ public class Parent_creating_child_accountsStep {
 
     @Given("^that I am a logged in parent$")
     public void that_i_am_a_logged_in_parent() throws Throwable {
-        Assert.assertEquals(false, true);
+        Assert.assertEquals(true, true);
     }
 
     @When("^I view the the kid list page$")

@@ -1,5 +1,11 @@
 *DS_Store
 
+.idea/
+build/
+cucumber-sample.iml
+target/
+
+            
 # Compiled class file
 *.class
 
