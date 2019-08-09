@@ -8,3 +8,4 @@ Feature: Kid account access
     Then i should see my account balance
     Then Jarrod Runs a Demo
     And makes another change
+    And I make another JPMC change
