@@ -10,3 +10,4 @@ Feature: Kid account access
     Then Jarrod Runs a Demo
     And makes another change
     And I make a new change for RBC
+    And I make another RBC change
