@@ -6,3 +6,4 @@ Feature:New Test Scenario 11.5.19
     Given I am a kid who has an account
     When i am logged in as a parent
     Then this cool new thing should happen
+    And this other cool thing should happen
